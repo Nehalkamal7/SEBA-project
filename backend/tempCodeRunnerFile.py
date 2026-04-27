@@ -1,0 +1,1 @@
+oauth2_scheme = OAuth2PasswordBearer

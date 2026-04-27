@@ -1,0 +1,58 @@
+{
+  "id": "1",
+  "courseId": "math-101",
+  "courseTitle": "General Mathematics",
+  "title": "Lesson 1: Real Numbers",
+  "description": "An introduction to irrational numbers, the structure of the real number set, and solving equations in R.",
+  "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "diagramId": "real-numbers-hierarchy",
+  "content": "### FTopic 1: Irrational Numbers\nAn irrational number cannot be written as $\\frac{a}{b}$, where $a$ and $b$ are integers and $b \\neq 0$ .\n\n**Examples:**\n* $\\sqrt{2}$\n* $\\sqrt{18}$\n* $\\pi$ (approx 3.14)\n* Golden ratio ($\\approx 1.618$) \n\n---\n\n### Topic 2: Real Numbers Set Structure\nReal numbers ($R$) consist of Rational numbers ($Q$) and Irrational numbers. The hierarchy is:\n* **Natural numbers (N):** 0, 1, 2, ...\n* **Integers (Z):** ..., -2, -1, 0, 1, 2, ...\n* **Rational numbers (Q):** Fractions, terminating or repeating decimals\n* **Irrational numbers:** Cannot be written as fractions\n\n---\n\n### Topic 3: Approximating Irrational Numbers\nTo approximate an irrational number like $\\sqrt{18}$, find two consecutive integers between which it lies. For example, $\\sqrt{16} = 4$ and $\\sqrt{25} = 5$, so $\\sqrt{18}$ lies between 4 and 5.",
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which of the following numbers is an irrational number?",
+        "options": [
+          "√3",
+          "√25",
+          "-1.25",
+          "3"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": "q2",
+        "question": "The closest integer to √41 is:",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": "q3",
+        "question": "The side length of a square with area 6 cm² is:",
+        "options": [
+          "A natural number",
+          "An integer",
+          "A rational number",
+          "An irrational number"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": "q4",
+        "question": "Which of the following sets contains ONLY irrational numbers?",
+        "options": [
+          "{√2, √18, π}",
+          "{0.25, √16, 7/4}",
+          "{1.5, √36, 1/3}",
+          "{22/7, 2, ∛27}"
+        ],
+        "correctAnswer": 0
+      }
+    ]
+  }
+}
