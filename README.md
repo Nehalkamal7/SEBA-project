@@ -150,6 +150,7 @@ It demonstrates the integration of:
 * AI in Education
 * Emotion-aware systems
 * Retrieval-Augmented Generation (RAG)
+* [graduation project 2 Final.pdf](https://github.com/user-attachments/files/27126262/graduation.project.2.Final.pdf)
 
 ---
 
